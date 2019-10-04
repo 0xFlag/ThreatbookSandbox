@@ -9,4 +9,4 @@ API调用：https://s.threatbook.cn/api</br>
 微步在线云沙箱：https://s.threatbook.cn/</br>
 </br>
 官方提供了cURL Python PHP Java Go的示例没有C C++ .NET的，顺便就写了个</br>
-获取的报告为Json格式，部分报告Json解析太麻烦没有写，详细看网页版扫描报告</br>
+获取的报告为Json格式，部分Json解析太麻烦没有写，详细看网页版扫描报告</br>
